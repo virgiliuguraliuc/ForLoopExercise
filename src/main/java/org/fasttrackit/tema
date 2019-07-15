@@ -1,0 +1,41 @@
+Rezolvati urmatoarele exercitii folosind bucle FOR:
+
+1. Creati o metoda in clasa LogicalOp, care sa primeasca un numar ca si parametru. Metoda sa verifce numarul primit, si sa afseze in consola o numaratoare pana la 100, pornind de la numarul primit ca si parametru. Atentie la crearea tipului metodei, deoarece metoda afseaza, nu returneaza.
+
+Apelati metoda in clasa App, metoda main() pentru a verifca daca functioneaza.
+
+2. Creati o metoda in clasa LogicalOp, care sa primeasca un numar ca si parametru. Metoda sa verifce numrul primit, si sa afseze in consola o numaratoare pana la -100, pornind de la numarul primit ca si parametru. Atentie la crearea tipului metodei, deoarece metoda afseaza, nu returneaza.
+
+Apelati metoda in clasa App, metoda main() pentru a verifca daca functioneaza.
+
+3. Creati o metoda in clasa LogicalOp, care sa primeasca doi parametrii de tip numar. Metoda sa afseze o numaratoare intre cele doua numere primite, pornind de la primul parametru primit, pana la cel de-al doilea(ex: daca int x e primul parametru iar int y este cel de-al doilea, numaratoarea sa se faca de la x, la y.
+
+Atentie la crearea tipului metodei, deoarece metoda afseaza, nu returneaza. Apelati metoda in clasa App, metoda main() pentru a verifca daca functioneaza.
+
+4. Creati o metoda in clasa LogicalOp, care sa primeasca doi parametrii de tip numar. Metoda trebuie sa verifce care dintre cele doua numere este mai mare, si sa execute o numaratoare crescatoare de la cel mai mic la cel mai mare.(ex: daca int x e primul parametru iar int y este cel de-al doilea, daca x este mai mare decat y, atunci numaratoarea sa fe de la y la x).
+
+Atentie la crearea tipului metodei, deoarece metoda afseaza, nu returneaza. Apelati metoda in clasa App, metoda main() pentru a verifca daca functioneaza.
+
+5.Creati o metoda in clasa LogicalOp care sa afseze toate numerele pare de la 1 la 100.
+
+6.Creati o metoda in clasa LogicalOp care sa afseze toate numerele impare de la 1 la 100.
+
+7.Creati o metoda in clasa LogicalOp care sa primeasca un parametru de tip numar. Metoda sa adune toate numerele pana la 100, pornind de la numarul primit ca si parametru, iar la fnal sa returneze rezultatul. Apelati metoda in clasa App, metoda main() pentru a verifca daca functioneaza.
+
+8. Creati o metoda in clasa LogicalOp care sa primeasca un parametru de tip numar. Metoda sa adune toate numerele pana la 100, pornind de la numarul primit ca si parametru, si sa calculeze media numerelor. La fnal, metoda sa returneze media. Apelati metoda in clasa App, metoda main() pentru a verifca daca functioneaza.
+
+9. Creat o metoda in clasa LogicalOp care sa afseze urmatorul tipar: *******
+******
+*****
+
+****
+***
+**
+*
+Cateva mentiuni:
+- pentru a putea rezolva problema, trebuie folosite doua bucle for. O bucla se va construi in alta bucla. - prima bucla for se va ocupa de afsarea pe orizontala, si cealalta pe verticala
+
+- semnul asterisk (*) se poate afsa sub forma de string
+Apelati metoda in clasa App, metoda main() pentru a verifca daca functioneaza.
+
+
