@@ -21,7 +21,7 @@ public class LogicalLoop {
 
     }
 
-//punctul 1.
+//punctul 1.//
         public void numberCountPlus100() {
             System.out.println(" \n //////////////////" + " tema 1 ");
             System.out.println(" I will count your number +100 aranjat pe coloane de 10 numere ");

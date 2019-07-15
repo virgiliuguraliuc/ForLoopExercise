@@ -20,6 +20,6 @@ public class App
        ForLoop.numberGivenAddAllUpto100();//7
        ForLoop.numberGivenMedianTo100();//8
         ForLoop.Tipar();
-
+//
     }
 }
